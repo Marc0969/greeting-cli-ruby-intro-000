@@ -1,4 +1,4 @@
 def greeting(name)
-  gets.strip
+  gets
   puts "Hello #{name}. It's nice to meet you."
 end# code the #greeting method here!
